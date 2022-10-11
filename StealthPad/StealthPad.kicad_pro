@@ -386,7 +386,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "StealthPad.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -433,6 +433,10 @@
     [
       "13fa8a9e-86a6-4913-9c21-a1360c71a821",
       ""
+    ],
+    [
+      "fad7b237-6291-40b9-923b-726d2d08fb8c",
+      "SwitchMatrix"
     ]
   ],
   "text_variables": {}
